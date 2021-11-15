@@ -36,7 +36,7 @@
 
 -Grafika, ta gra będzie zawierać grafikę
 
--I muzyka
+-I muzyka + sfx
 
 -Grane w orientacji poziomej
 
