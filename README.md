@@ -22,7 +22,7 @@
 
 -Siatka terenu fajnie by było zrobić własne kawałki terenu a nie sześciany, żeby ładniej wyglądało (Albo bez osobnych pól tylko jedna mapa z polami różnymi ukrytymi które by -wykrywały czy coś na nich stoi a jak tak to żeby dawało im efekt pola (terenu)
 
--Może jakieś wsparcie żeby zawołać
+
 
 -Może zamki? Trudne do zdobycie i dające przewagę obrońcom (Później jakbym dodał armaty to by można było sobie ułatwić ich zdobywanie)
 
