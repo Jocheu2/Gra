@@ -12,7 +12,7 @@
 
 -??Wybierany poziom trudności??
 
--Jednostki kupowane za pieniądze
+-Jednostki kupowane za pieniądze (W grze)
 
 -??Modyfikatory jednostek??
 
