@@ -1,4 +1,4 @@
-# Projekt 
+# Projekt początkowy taki
 
 -Strategia RTS
 
