@@ -87,3 +87,10 @@
 - Ekran startowy: mapa, przyciski z opcjami (graj, opcje, credits)
 - Do wyboru dwie opcje tryb zwykły i fabularny
 - Ekran wyboru poziomów do trybu fabularnego
+
+
+
+
+
+
+LAYOUT JESZCZE WCZEŚNIEJ ZROBIĆ
