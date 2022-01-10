@@ -65,3 +65,22 @@
 -Androdoid 5.0 
 
 -RAM - 1 gb
+
+
+
+# Opis gry
+- Muzyka w klimacie muzyka z tawerny
+- Dźwieki poruszania się jednostek i ataku
+- Dźwięki przycisków
+
+
+# Assety :
+
+- Średniowieczne (typu jednostki z Europa Universalis 4) z krótką animacją chodzenia i walki i śmierci (piechota, konni i armaty)
+- Pola z kawałkami terenu do tworzenia własnych map (z rzeką, górami, lasami, polami i mosty)
+
+# GUI :
+
+- Ekran startowy: mapa, przyciski z opcjami (graj, opcje, credits)
+- Do wyboru dwie opcje tryb zwykły i fabularny
+- Ekran wyboru poziomów do trybu fabularnego
