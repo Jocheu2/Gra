@@ -97,3 +97,5 @@ LAYOUT JESZCZE WCZEŚNIEJ ZROBIĆ
 
 
 Cocept arty
+audacity
+muzyki od innych
