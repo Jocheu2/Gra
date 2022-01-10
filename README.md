@@ -69,6 +69,9 @@
 
 
 # Opis gry
+
+
+# sfx
 - Muzyka w klimacie muzyka z tawerny
 - Dźwieki poruszania się jednostek i ataku
 - Dźwięki przycisków
